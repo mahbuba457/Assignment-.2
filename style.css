@@ -314,10 +314,15 @@ margin-left: 400px;
     border-radius: 900px;
 }
 .sponsors-img-container img{
-    width:165px;
+    width:50px;
+}
+.games{
+    display: flex;
+    gap: 15px;
+    font-weight: bold;
 }
 
-#o{
+#opt{
     padding: 5px 5px;
     font-weight: 100;
     border-radius: 50px;
@@ -372,5 +377,6 @@ footer{
     gap:50px;
     color: #e6e9eb;
     justify-content: center;
+   
     
 }
